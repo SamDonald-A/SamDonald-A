@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/@knowdigitalbetter)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/sam-donald-4209a8203/)
+[![Linkedin Badge](https://img.shields.io/badge/-SamDonald-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/sam-donald-4209a8203/)
 [![Website Badge](https://img.shields.io/badge/WebSite-SamDonald-green)](https://samdonald.my.canva.site/portfolio-sdcreation)
 
 I'm
@@ -14,7 +14,7 @@ The crossover between design and programming has always been of interest to me, 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=samdonald&column=7"/>
   </a>
 </div>
 

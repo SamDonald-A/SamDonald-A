@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/@knowdigitalbetter)
 [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/sam-donald-4209a8203/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Sam Donald-green)](https://samdonald.my.canva.site/portfolio-sdcreation)
+[![Website Badge](https://img.shields.io/badge/WebSite-SamDonald-green)](https://samdonald.my.canva.site/portfolio-sdcreation)
 
 I'm
 Full Stack Developer
